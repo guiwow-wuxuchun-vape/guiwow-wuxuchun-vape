@@ -9,6 +9,6 @@
 平时基本没什么时间上网
 
   
-![Android](https://img.shields.io/badge/Android-8.1%2B-3DDC84?style=flat&logo=android&logoColor=white))
+![Android](https://img.shields.io/badge/Android-8.1%2B-3DDC84?style=flat&logo=android&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-62B47A?style=flat&logo=minecraft&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-17+-007396?style=flat&logo=openjdk&logoColor=white)
